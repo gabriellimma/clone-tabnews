@@ -4,7 +4,7 @@
   "description": "repositório de desenvolvimento da trilha do curso.dev",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "next dev"
   },
   "author": "Gabriel Silva Lima",
   "license": "MIT",
